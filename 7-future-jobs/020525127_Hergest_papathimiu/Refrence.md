@@ -1,30 +1,22 @@
-References
+\# References
 
 
 
-Al-Hashimi, H. A. (2026). A generative AI cybersecurity risks mitigation model for code generation: using ANN-ISM hybrid approach. \*PMC Cybersecurity and Automation\*, 1-14.
+Bappy, F. H. (2026). From preventive to reactive: How AI coding assistants transform developers' security awareness. \*arXiv preprint\*, arXiv:2605.23130.
 
 
 
-Bakajac, D. (2025). \*The impact of AI on skill development and career progression in software engineering\* (Master's thesis). reposiTUm: TU Wien.
+Becker, J., Rush, N., Barnes, E., \& Rein, D. (2025). Measuring the impact of early-2025 AI on experienced open-source developer productivity. \*arXiv preprint\*, arXiv:2507.09089.
 
 
 
-Gangishetti, S. (2025). AI assistants in frontend development: An empirical study of developer productivity and code quality. \*International Journal of AI, BigData, Computational and Management Studies\*, 3(1), 12–25.
+Guizani, M. (2026). At what cost? Software developers' well-being in the age of GenAI. \*arXiv preprint\*, arXiv:2605.22349.
 
 
 
-Johnson, J. (2025). \*Literature review: The impact of artificial intelligence on IT jobs: Automation, displacement, and adaptation\*. Iowa State University Research Platform.
+Vella, A., \& Blincoe, K. (2026). The impact of AI coding assistants on software engineering: A longitudinal study. \*arXiv preprint\*, arXiv:2605.23135.
 
 
 
-Lyu, Y., Yang, Z., Shi, J., Chang, J., Liu, Y., \& Lo, D. (2025). "My productivity is boosted, but ..." Demystifying users' perception on AI coding assistants. \*arXiv preprint\*, arXiv:2508.12285.
-
-
-
-Melegati, J. (2026). Role and identity work of software engineering professionals in the generative AI era. \*Proceedings of the International Workshop on Cooperative and Human Aspects of Software (CHASE'26)\*. ACM. https://doi.org/10.1145/3794860.3794913
-
-
-
-Schreiber, M., \& Tippe, P. (2025). Security vulnerabilities in AI-generated code: A large-scale analysis of public GitHub repositories. \*arXiv preprint\*, arXiv:2510.26103.
+Xu, F., Medappa, P. K., Tunc, M. M., Vroegindeweij, M., \& Fransoo, J. C. (2025). AI-assisted programming may decrease the productivity of experienced developers by increasing maintenance burden. \*arXiv preprint\*, arXiv:2510.10165.
 
